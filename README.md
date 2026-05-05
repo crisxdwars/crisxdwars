@@ -57,6 +57,6 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 ## 🤝 Connect with Me
 
 * **GitHub:** [@yourusername](https://github.com/yourusername)
-* **Portfolio:** [Silocode.site](https://silocode.site) *(Or insert your preferred link)*
+* **XXXX:** [LINK](URL)*
 
 *"I love turning complex ideas into simple, beautiful designs."*
