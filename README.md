@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hello, I am Christian Miel B. Talurong! 👋
 
-<!--
-**crisxdwars/crisxdwars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Web Developer** and **Aspiring Game Developer** who loves building things from the ground up. I believe in writing clean, efficient code and truly understanding how everything works under the hood—which is why I write my code from scratch without relying on AI generation. 
 
-Here are some ideas to get you started:
+I just graduated Grade 12 (April 23, 2026!) and am fully focused on leveling up my software engineering and game logic skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Featured Project
+
+### 📸 [lens-shot](https://aur.archlinux.org/packages/lens-shot) 
+*An open-source utility built for Linux users, officially published and maintained in the **Arch Linux User Repository (AUR)**.*
+* **Install it:** `yay -S lens-shot`
+
+---
+
+## 💻 Tech Stack & Tools
+
+### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Environment & Tools
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-00BFFF?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Other Projects
+
+* **Silocode.site** *(March 2026)* - A comprehensive Grade 12 Research System built to manage and streamline academic research workflows.
+* **Hyprland Rice** *(March 2026)* - My personal, highly optimized Linux tiling window manager configuration. Sleek, fast, and minimal.
+
+---
+
+## 🖥️ My System Setup
+
+I build and break things on a minimal, bleeding-edge Linux environment.
+
+| Component | Specification |
+| :--- | :--- |
+| **OS / Kernel** | Arch Linux 💧 (`Linux 7.0.3-arch1-2`) |
+| **WM** | Hyprland 0.54.3 (Wayland) |
+| **CPU** | Intel Core i7-7700K |
+| **GPU** | AMD Radeon RX 580 8GB 2048SP |
+| **Memory** | 16GB Kingston Fury 3200MHz (Single Channel) |
+| **Storage** | 230GB Adata SU 650 SSD |
+| **Monitor** | YGT 32" FHD (1920x1080 @ 75Hz) |
+
+---
+
+## 🤝 Connect with Me
+
+* **GitHub:** [@yourusername](https://github.com/yourusername)
+* **Portfolio:** [Silocode.site](https://silocode.site) *(Or insert your preferred link)*
+
+*"I love turning complex ideas into simple, beautiful designs."*
