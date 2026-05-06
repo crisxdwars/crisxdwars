@@ -56,7 +56,7 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 
 ## 🤝 Connect with Me
 
-* **GitHub:** [@yourusername](https://github.com/yourusername)
+* **GitHub:** [@crisxdwars](https://github.com/crisxdwars)
 * **XXXX:** [LINK](URL)*
 
 *"I love turning complex ideas into simple, beautiful designs."*
