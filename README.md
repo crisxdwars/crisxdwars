@@ -45,7 +45,7 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 | Component | Specification |
 | :--- | :--- |
 | **OS / Kernel** | Arch Linux x86_64 (`Linux 7.0.13-zen1-2-zen`) |
-| **WM** | Hyprland 0.54.3 (Wayland) |
+| **WM** | Hyprland 0.55.5 (Wayland) |
 | **CPU** | Intel(R) Core(TM) i7-7700K (8) @ 4.50 GHz |
 | **GPU** | AMD Radeon RX 580 8GB 2048SP |
 | **Memory** | 1x16GB Kingston Fury 3200MHz |
@@ -59,3 +59,5 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 * **GitHub:** [@crisxdwars](https://github.com/crisxdwars)
 
 *"I love turning complex ideas into simple, beautiful designs."*
+
+**PS: This will be updated once per week.**
