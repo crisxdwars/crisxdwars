@@ -44,13 +44,13 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 
 | Component | Specification |
 | :--- | :--- |
-| **OS / Kernel** | Arch Linux x86_64 (`Linux 7.0.13-zen1-2-zen`) |
-| **WM** | Hyprland 0.55.5 (Wayland) |
-| **CPU** | Intel(R) Core(TM) i7-7700K (8) @ 4.50 GHz |
-| **GPU** | AMD Radeon RX 580 8GB 2048SP |
-| **Memory** | 1x16GB Kingston Fury 3200MHz |
-| **Storage** | 230GB Adata SU 650 SSD |
-| **Monitor** | LG 32" UHD (3840x2160 @ 240Hz) |
+| **Laptop** | HP Laptop 15-Fc1058AU |
+| **OS / Kernel** | Arch Linux x86_64 (`Linux 7.1.3-zen2-2-zen`) |
+| **WM** | Hyprland 0.55.4 (Wayland) |
+| **CPU** | AMD Ryzen 5 7535HS (12) @ 4.60 GHz |
+| **GPU** | AMD Radeon 680M [Integrated] |
+| **Memory** | 2x8GB(16GB) DDR5 5600MHz |
+| **Storage** | 256 GB PCIe NVMe M.2 Solid State Drive (SSD) |
 
 ---
 
