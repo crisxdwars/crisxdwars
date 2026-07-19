@@ -25,7 +25,6 @@ I just graduated Grade 12 (April 23, 2026!) and am fully focused on leveling up 
 
 ### Environment & Tools
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-00BFFF?style=for-the-badge&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -48,7 +47,7 @@ I build and break things on a minimal, bleeding-edge Linux environment.
 | **OS / Kernel** | Arch Linux x86_64 (`Linux 7.1.3-zen2-2-zen`) |
 | **WM** | Hyprland 0.55.4 (Wayland) |
 | **CPU** | AMD Ryzen 5 7535HS (12) @ 4.60 GHz |
-| **GPU** | AMD Radeon 680M [Integrated] |
+| **GPU** | AMD Radeon 660M [Integrated] |
 | **Memory** | 2x8GB(16GB) DDR5 5600MHz |
 | **Storage** | 256 GB PCIe NVMe M.2 Solid State Drive (SSD) |
 
